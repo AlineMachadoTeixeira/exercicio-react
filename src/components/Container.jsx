@@ -7,6 +7,7 @@ const StyledContainer = styled.main`
   background-color: aliceblue;
   padding: 1rem;
   box-shadow: darkblue 0 0 1px inset;
+  border-radius: 5px;
 
   h1 {
     text-align: center;

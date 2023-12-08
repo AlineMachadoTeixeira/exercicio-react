@@ -7,7 +7,9 @@ const StyledMenu = styled.nav`
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin: auto;
+  margin: 2rem 0;
+  background-color: aliceblue;
+  border-radius: 50px;
 
   a {
     color: black;
